@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kax:home|Door43 (kax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kax|d43-kax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kax/archive/master.zip|d43-kax.zip]]
+
+**Recent Changes**
+{{changes>ns = kax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kax|Ethnologue data]]
+
